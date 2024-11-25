@@ -10,14 +10,14 @@ public class Lab101 {
 		System.out.print("Input peoduct name  :");
 		String productName = scan.nextLine();
 		
-		System.out.print("Input product unit  :");
+		System.out.print("Input Product unit  :");
         int productUnit = scan.nextInt();
         
         System.out.print("Input pice per unit :");
         float productPrice = scan.nextFloat();
         
         System.out.println();
-        System.out.println("Product name is : "+ productName);
+        System.out.println("Total price is  : "+ productPrice * );
         
         float totalPriceProduct = productUnit * productPrice ;
 	}

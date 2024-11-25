@@ -6,7 +6,7 @@ public class javaexample1 {
 		Scanner scan = new Scanner (System.in);
 		DecimalFormat frm = new DecimalFormat("#,####.00");
 		
-		System.out.print("Input peoduct name  :");
+		System.out.print("Input product name  :");
 		String productName = scan.nextLine();
 		
 		System.out.print("Input product unit  :");

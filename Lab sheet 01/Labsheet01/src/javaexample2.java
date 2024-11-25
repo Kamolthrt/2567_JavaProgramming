@@ -4,7 +4,7 @@ public class javaexample2 {
 	public static void main(String[] args) {
 		String productName = JOptionPane.showInputDialog("Input Product Name: ");
 		
-		String productUnitStr = JOptionPane.showInputDialog("Input product Unit");
+		String productUnitStr = JOptionPane.showInputDialog("Input Product Unit");
 		//input product unit
 		int productUnit = Integer.parseInt(productUnitStr);
 		//input price per unit

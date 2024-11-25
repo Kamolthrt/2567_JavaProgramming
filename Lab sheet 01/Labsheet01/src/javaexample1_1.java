@@ -5,7 +5,7 @@ public class javaexample1_1 {
 		
 		Scanner input = new Scanner (System.in);
 		//รับข้อมูลด้วยnext
-		System.out.print("Enter youe first name(using next): ");
+		System.out.print("Enter Youe first name(using next): ");
 		String firstName = input.next();
 		input.nextLine();
 		
