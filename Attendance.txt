@@ -1,11 +1,4 @@
 StudentID 2413110277
 StudentName  Kamolthrt Praditphruek
 Date 11/25/2024
-<<<<<<< HEAD
-<<<<<<< HEAD
-Topic variables Formatting Output and Input Data
-=======
-=======
->>>>>>> e1cb36bc501bc25ac71fe5e0e6940879d03ce0ac
 Topic work with Githup
->>>>>>> e1cb36bc501bc25ac71fe5e0e6940879d03ce0ac
