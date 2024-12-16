@@ -35,11 +35,11 @@ JOptionPane.showConfirmDialog(null,
 	
    }
 public static boolean checkEmail(String email) {
-	//if(email.endsWith("@gmail.come")||email.endsWith("@hotmail.com")) {
-	//return true;
-//}else {
-//	return false;
-//}
+	/*if(email.endsWith("@gmail.come")||email.endsWith("@hotmail.com")) {
+	return true;
+}else {
+	return false;
+}*/
 		return email.endsWith("@gmail.come")||email.endsWith("@hotmail.com");
 	}
 }
