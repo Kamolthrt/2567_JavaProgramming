@@ -4,7 +4,7 @@ public class Lab304 {
 	public static void main(String[] args) {
 		
 		Scanner fn = new Scanner(System.in);
-		System.out.print("Full name: ");
+		System.out.print("Full Name: ");
 		String fullName =fn.nextLine();
 		int partOfname = fullName.indexOf(" ");
 		if(partOfname!=-1)

@@ -3,7 +3,7 @@ public class Lab303_1 {
 
 	public static void main(String[] args) {
 		
-		String sentence = JOptionPane.showInputDialog(null,"Input a sentence : ","Input",JOptionPane.QUESTION_MESSAGE);
+		String sentence = JOptionPane.showInputDialog(null,"Input a Sentence : ","Input",JOptionPane.QUESTION_MESSAGE);
 		while(!sentence.endsWith("."))
 		{
 			sentence = JOptionPane.showInputDialog(null,"Input a sentence, agian : ","Input",JOptionPane.QUESTION_MESSAGE);

@@ -9,7 +9,7 @@ public class Lab306 {
 		if(message.toLowerCase().indexOf(word.toLowerCase())>=0)
 		{
 			
-			System.out.println("Nichi is a sentence");
+			System.out.println("Nichi is a Sentence");
 		}
 		else
 		{

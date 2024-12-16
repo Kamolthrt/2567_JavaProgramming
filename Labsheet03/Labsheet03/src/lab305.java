@@ -7,7 +7,7 @@ Scanner ss = new Scanner(System.in);
 		
 		while (true) 
 		{
-			System.out.print("Input some sentence : ");
+			System.out.print("Input some Sentence : ");
 			String sentence=ss.nextLine();
             
 			while(!sentence.endsWith("."))

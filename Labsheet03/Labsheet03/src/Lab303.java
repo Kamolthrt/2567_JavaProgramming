@@ -4,7 +4,7 @@ public class Lab303 {
 	public static void main(String[] args) {
 		
 		Scanner input = new Scanner(System.in);
-		System.out.print("Input a sentence : ");
+		System.out.print("Input a Sentence : ");
 		String sentence=input.nextLine();
 		while(!sentence.endsWith("."))
 		{
