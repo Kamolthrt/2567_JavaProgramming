@@ -6,7 +6,7 @@ public class Lab403 {
 		String fullName;
 		String firstName;
 
-		System.out.println("Plase enter your name, separated by a space. ");
+		System.out.println("Plase Enter your name, separated by a space. ");
 		System.out.print(":");
 		fullName = input.nextLine();
 		

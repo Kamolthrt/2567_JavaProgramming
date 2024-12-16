@@ -11,7 +11,7 @@ public class Lab401 {
 public static void inputEmail() {
 	String ans="";
 	do {
-		varEmail = JOptionPane.showInputDialog("Input your e-mail:");
+		varEmail = JOptionPane.showInputDialog("Input Your e-mail:");
 		if(varEmail != null && !varEmail.isEmpty()) {//	ไม่เป็นค่าว่าง
 			checkEmailError(varEmail);
 		}else {
