@@ -1,16 +1,16 @@
 import javax.swing.JOptionPane;
 public class Lab103 {
 	public static void main(String[] args) {
-		String inputTime = JOptionPane.showInputDialog(null, "Input Time Parkig (minute)","Input",JOptionPane.QUESTION_MESSAGE);
-		int time =  Integer.parseInt(inputTime);
-		
-		int hours = time / 60;
-		int minutes = time % 60;
-		
-		double paid = hours * 50 + (minutes * 0.25);
-	
-		String massage = "You parking "+hours+" Hour "+minutes+ " Minute.\nAmount to paid is "+paid+" baht.";
-		JOptionPane.showMessageDialog(null, massage);
+		String minuteofParking = JOptionPane.showInputDialog(null,"Input Time Parking(minute):",
+				"Input",JOptionPane.QUESTION_MESSAGE);
+				int minutes = Integer.parseInt(minuteofParking);
+				int hour = minutes/60;
+				int minute = minutes%60;
+				double hourTotal = 50;
+				double minuteTotal=0.25;
+				double price = (hour*hourTotal)+(minute*minuteTotal);
+				JOptionPane.showMessageDialog(null, "You parking "+hour+" Hour "+minute+" Minute."+
+				"\nAmount to be paid is "+price+" baht.","Message",JOptionPane.INFORMATION_MESSAGE);
 	}
 
 }
