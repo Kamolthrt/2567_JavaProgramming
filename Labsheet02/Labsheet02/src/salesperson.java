@@ -25,7 +25,7 @@ public class salesperson {
 				 System.out.println();
 	         }
 		         System.out.print("bye");
-		 System.out.printf("All salesperaon's salary have been computed.");
+		 System.out.printf("All salesperaon's Salary have been computed.");
 	}
 	
 

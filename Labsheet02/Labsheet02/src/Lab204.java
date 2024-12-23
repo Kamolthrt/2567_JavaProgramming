@@ -12,7 +12,7 @@ public class Lab204 {
 		
 		while(numOfy<=numOfx)
 		{
-			System.out.print("Input value of Y, again :");
+			System.out.print("Input Value of Y, again :");
 			numOfy = scanner.nextInt();
 		}
 		System.out.println();

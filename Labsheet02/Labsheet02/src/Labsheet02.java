@@ -15,7 +15,7 @@ public class Labsheet02 {
 		double totalPrice = numberofCustomer * BUFFET;
 		do {
 		        isMember = JOptionPane.showConfirmDialog(null,
-				"Total Price is " + totalPrice+ "baht."+
+				"Total Price is " + totalPrice+ "Baht."+
 		        "\nDo you have a member card ");
 		}while(isMember ==2);
 		if (isMember==0) {

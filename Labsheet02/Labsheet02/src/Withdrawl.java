@@ -17,7 +17,7 @@ public class Withdrawl {
 			JOptionPane.showMessageDialog(null, "Error: Cannot withdraw more than balance","ERROR",JOptionPane.ERROR_MESSAGE);
 		}
 		else if(moneyWithdraw>50000) {
-			JOptionPane.showMessageDialog(null, "Error: Cannot withdraw more than 50,000 baht","ERROR",JOptionPane.ERROR_MESSAGE);
+			JOptionPane.showMessageDialog(null, "Error: Cannot withdraw more than 50,000 Baht","ERROR",JOptionPane.ERROR_MESSAGE);
 		}
 		else if(moneyWithdraw%100 !=0) 
 		{

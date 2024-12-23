@@ -15,7 +15,7 @@ public class Lab203 {
 		String result ;
 		if(BMI<=18.5)
 		{
-			result = "Underweight";
+			result = "UnderWeight";
 		}
 		else if(BMI>=18.5 && BMI<=24.9)
 		{
