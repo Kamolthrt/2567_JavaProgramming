@@ -1,4 +1,4 @@
 StudentID 2413110277
 StudentName  Kamolthrt Praditphruek
-Date 12/16/2024
-Topic User-Defined Method in Java
+Date 12/23/2024
+Topic Array and Array Method
