@@ -1,4 +1,4 @@
 StudentID 2413110277
 StudentName  Kamolthrt Praditphruek
-Date 12/23/2024
-Topic Array and Array Method
+Date 1/20/2025
+Topic Encapsulation and Array Object

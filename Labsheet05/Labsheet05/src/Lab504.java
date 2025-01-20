@@ -17,7 +17,7 @@ public class Lab504 {
 	      
 	       double average = total / scores.length;
 	       System.out.println();
-	       System.out.printf("Average of 5 students is %.2f\n", average);
+	       System.out.printf("Average of 5 Students is %.2f\n", average);
 	       
 	       int index = 1;
 	       for (double score : scores) {
