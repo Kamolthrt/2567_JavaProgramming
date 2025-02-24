@@ -1,4 +1,5 @@
 
-public class Author {
-
+public interface  Author {
+	public String getLastName();
+	public String getFirstName();
 }
